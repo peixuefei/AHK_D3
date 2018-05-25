@@ -29,7 +29,7 @@ Else
 {
 ;SetTimer, Label1, 500  ;动作条技能1键600毫秒连点，对应天谴技能，600可改动
 SetTimer, Label2, 500  ;动作条技能2键600毫秒连点，对应挑衅技能，600可改动
-SetTimer, Label3, 500  ;动作条技能3键600毫秒连点，对应律法技能，600可改动
+SetTimer, Label3, 400  ;动作条技能3键600毫秒连点，对应律法技能，600可改动
 SetTimer, Label4, 500  ;动作条技能4键600毫秒连点，对应勇士技能，600可改动
 SetTimer, MouseLButton, 150  ;鼠标左键150毫秒连点，150可改动
 SetTimer, MouseRButton, off     ;鼠标右键连点关闭，按住右键手动触发战马冲锋
